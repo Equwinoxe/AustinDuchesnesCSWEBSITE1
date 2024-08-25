@@ -1,0 +1,59 @@
+
+body {
+    font-family: 'Mulish', sans-serif; /* Replace 'Roboto' with your chosen font */
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #ac3030;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #0056b3;
+}
+
+h1 {text-align:center;}
+h1 {color:rgb(0, 0, 0)}
+body {
+    color:rgb(81, 81, 23), white;
+}
+table h1 {text-align:center}
+table tr {text-align: center}
+table tr{
+    background-color: rgb(230, 135, 135);
+}
+
+body {
+background-color: rgb(235, 88, 88);
+}
+
+button {
+    color: rgb(255, 255, 255);
+    border-radius: 1000px;
+    border-color: black;
+    background-color: #de0000;
+}
+button {align-items:center}
+button:hover{
+    color: rgb(175, 175, 175);
+    background-color: #710000;
+}
+
+td {
+    font-size:20px;
+    color: rgb(0, 0, 0);
+}
+
+button {
+    position: absolute;
+    top: 200%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+}
+
